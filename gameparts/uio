@@ -1,0 +1,4 @@
+import math
+
+# Что хорошего есть в библиотеке math?
+print(math.__doc__) 
